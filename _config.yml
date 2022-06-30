@@ -103,5 +103,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repository: https://palingenes.github.io/exc.github.io/
+  repository: https://github.com/palingenes/exc.github.io
   branch: blog-pages
