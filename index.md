@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Init blog theme point
 
 You can use the [editor on GitHub](https://github.com/palingenes/exc.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
